@@ -1,0 +1,2 @@
+# opencv
+temel opencv kullanimi
